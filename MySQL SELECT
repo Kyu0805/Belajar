@@ -1,4 +1,4 @@
-Statement SELECT digunakan untuk memilih suatu data dari Database.
+Perintah SELECT digunakan untuk memilih suatu data dari Database.
 Data yang dikembalikan disimpan dalam tabel hasil, yang disebut result-set.
 
 Misal saya ingin melihat from MAHASISWA menggunakan statement SELECT, menggunakan perintah :
@@ -9,5 +9,5 @@ Kalau misal saya ingin mengambil kolom NPM saja dari from mahasiswa, maka menggu
 SELECT NPM FROM MAHASISWA;
 Perintah tersebut akan memunculkan NPM mahasiswa yang ada pada from mahasiswa.
 
-Statement SELECT juga bisa di gabung dengan beberapa statement yang lain seperti INNER JOIN, LEFT JOIN dan lainnya,
+Perintah SELECT juga bisa di gabung dengan beberapa statement yang lain seperti INNER JOIN, LEFT JOIN dan lainnya,
 karna sesuai pengertiannya, SELECT memilih suatu data dari Database lalu digabungkan oleh perintah lain. 
