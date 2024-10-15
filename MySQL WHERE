@@ -1,1 +1,11 @@
+Perintah WHERE digunakan untuk memfilter data. Maksudnya adalah jika saya ingin mengetahui mahasiswa yang tinggal di Jakarta, gunakan perintah WHERE
 
+Sintax WHERE :
+SELECT * FROM MAHASISWA;
+WHERE CITY = 'Jakarta';
+Kode tersebut akan memunculkan nama-nama mahasiswa yang tinggal di Jakarta.
+
+Contoh lain :
+SELECT * FROM MAHASISWA;
+WHERE CLASS = 'A'
+Kode tersebut akan memunculkan mahasiswa yang berada pada kelas A.
